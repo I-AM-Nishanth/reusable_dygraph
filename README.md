@@ -1,3 +1,6 @@
+# visenti-interview-task
+Create a react dygraph component using the given data
+
 This project is made by create-react-app package. The purpose of this project is to create a fork and complete the below task. Only those candidates informed by Visenti team must submit PRs. Drop an email to the corresponding POC about the submission to find the result.
 
 ## Your task
