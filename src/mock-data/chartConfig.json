@@ -1,0 +1,16 @@
+{
+  "series": "Real",
+  "title": "Pressure Transient(s)",
+  "xlabel": "Time",
+  "ylabel": "Pressure (meters)",
+  "gridLineWidth": 0.1,
+  "connectSeparatedPoints": true,
+  "labels": [
+    "Date", "Tampines Ave10 (Stn 40)"
+  ],
+  "axes": {
+    "x": {
+      "axisLabelFontSize": 9
+    }
+  }
+}
